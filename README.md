@@ -15,7 +15,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 
 #### Code
 <pre>
-GitHub Link      : <a href=https://github.com/kenneth004/Cancer-Detection-from-Microscopic-Tissue-Images-with-Deep-Learning-></a>
+GitHub Link      : <a href=https://github.com/kenneth004/Cancer-Detection-from-Microscopic-Tissue-Images-with-Deep-Learning->https://github.com/kenneth004/Cancer-Detection-from-Microscopic-Tissue-Images-with-Deep-Learning-</a>
 Portfolio        : <a href=https://kennethprince004.wixsite.com/kenneth>Kenneth Prince's Portfolio</a>
 </pre>
 
