@@ -15,16 +15,14 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 
 #### Code
 <pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Histopathologic-Cancer-Detection>Histopathologic Cancer Detection(GitHub)</a>
-GitLab Link      : <a href=https://gitlab.com/anjanatiha/Histopathologic-Cancer-Detection>Histopathologic Cancer Detection(GitLab)</a>
-Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
+GitHub Link      : <a https://github.com/kenneth004/Cancer-Detection-from-Microscopic-Tissue-Images-with-Deep-Learning-</a>
+Portfolio        : <a : https://kennethprince004.wixsite.com/kenneth>Kenneth Prince's Portfolio</a>
 </pre>
 
 #### Dataset
 <pre>
 Dataset Name     : Histopathologic Cancer Detection
-Dataset Link     : <a href=https://www.kaggle.com/c/histopathologic-cancer-detection>Histopathologic Cancer Detection (Kaggle)</a>
-                 : <a href=https://github.com/basveeling/pcam>PatchCamelyon (PCam) (GitHub)</a>
+Dataset Link     : <a href=https://github.com/basveeling/pcam>PatchCamelyon (PCam) (GitHub)</a>
                  : <a href=https://camelyon16.grand-challenge.org/Data/>CAMELYON16 challenge Dataset (Original Dataset)</a>
                  
 Original Paper   : <a href=https://jamanetwork.com/journals/jama/fullarticle/2665774>Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer </a> 
